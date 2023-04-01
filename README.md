@@ -45,7 +45,7 @@
 </html>
 ```
 ##OUTPUT
-![image](https://user-images.githubusercontent.com/127816678/229269568-cd2ab61a-21b5-468e-adac-ad5aab69be8b.png)
+![image](https://user-images.githubusercontent.com/127816678/229269568-cd2ab61a-21b5-468e-adac-ad5aab69be8b.png)```
 
 ## RESULT
   List of Departments in an Institution is created successfully.
