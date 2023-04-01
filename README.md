@@ -21,32 +21,31 @@
 ## CODE
 ```
 <html>
-      <head>  
-            <title> Saveetha engineering college </title>
-      </head>
-      <body border="red" bg="cyan">
-             <ul type="none"
-                     <li>Agriculturing engineering</li>
-                     <li>Computer science</li>
-                     <li>Information technology</li>
-                     <li>Data Science</li>
-                                          <ol>
-                                                 <li>AI-Machine Learning</li>
-                                                 <li>AI-Data Science</li>
-                                                 <li>Internet of things</li>
-                                          </ol>
-                      <li>Electronices&communication Engineering</li>
-                      <li>Electrical&Electronical Engineering</li>
-                      <li>Mechanical Enginering</li>
-
-                     
-            </ul>
-        </body>
+     <head>
+          <title> Saveetha Engineering College </title>
+     </head>
+     <body bgcolor="cyan" text="black">
+     <h1 style="text-align:center;">Saveetha Engineering College</h1>
+       <hr width="px;" color="red">
+     <ol type="A">
+       <li>Agricultural Engineering</li>
+       <li>Computer Science And Engineering</li>
+       <li>Information Technology</li>
+       <li>Data Science</li>
+     <ul type="disc">
+           <li>Artifical Intelligence-Data Science</li>
+           <li>Artifical Intelligence-Machine Lerning</li>
+           <li>Internet of Things</li>
+     </ul>
+       <li>Electronics & communication Engineering</li>
+       <li>Electronical & Electrical Engineering</li>
+       <li>Mechincal Engineering</li>
+    </ol>
+     </body>
 </html>
 ```
 ##OUTPUT
-![image](https://user-images.githubusercontent.com/127816678/228324250-83a1ff93-7ff0-4b05-999b-08dfd9f3bf12.png)
-
+![image](https://user-images.githubusercontent.com/127816678/229269568-cd2ab61a-21b5-468e-adac-ad5aab69be8b.png)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
